@@ -1,0 +1,8 @@
+*.*~
+*.csv
+*.json
+*.RData
+.RData
+.Rhistory
+.RProj
+rsconnect/
